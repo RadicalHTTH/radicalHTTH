@@ -1,0 +1,42 @@
+
+--- MODEL SUMMARY ---
+Model used: 3
+Sequence file: input/RHO_seq.dat
+Tree file: input/RHO.fa.tree
+Log likelihood: -3268.129649
+np: 25
+Start time: 2025-04-17 03:52:39
+
+--- BASE FREQUENCIES ---
+T: 0.283032  C: 0.271547  A: 0.198176  G: 0.247245
+
+--- BRANCH LENGTHS ---
+Branch 0: 0.000100
+Branch 1: 0.011210
+Branch 2: 0.093617
+Branch 3: 0.063734
+Branch 4: 0.260934
+Branch 5: 0.146706
+Branch 6: 0.063291
+Branch 7: 0.044647
+Branch 8: 0.128056
+Branch 9: 1.280318
+Branch 10: 0.108545
+Branch 11: 0.072904
+Branch 12: 0.000099
+Branch 13: 0.398481
+Branch 14: 0.017036
+Branch 15: 0.015909
+Branch 16: 0.060185
+Branch 17: 0.031492
+Branch 18: 0.055919
+Branch 19: 0.051702
+Branch 20: 0.034754
+
+--- PARAMETERS ---
+Kappa: 4.946722
+Omega: 1.460118
+Gamma (background): 0.180466
+Gamma (foreground): 0.587933
+
+End time: 2025-04-17 04:01:49
