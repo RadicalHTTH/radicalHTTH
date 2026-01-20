@@ -1,5 +1,0 @@
-Model = 4
-seqfile = input/RHO_seq.dat
-GammaFiles = input/compAAParts_0.4.dat
-treefile = input/RHO.fa.tree
-outfile = Output/Branch/null/mlradBn_0.4.out
