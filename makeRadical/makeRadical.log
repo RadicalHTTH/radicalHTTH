@@ -1,0 +1,38 @@
+# Start time: 2025-12-11 08:07:05
+# Command: makeRadical.py -i compressibility.dat -c universal -s 0.9 -o compAAParts_0.9.dat
+
+Started reading AAindex
+20 amino acid values loaded.
+A: -25.5
+R: -26.62
+N: -30.9
+D: -33.12
+C: -32.82
+Q: -32.6
+E: -36.17
+G: -27.0
+H: -31.84
+I: -31.78
+L: -31.78
+K: -32.4
+M: -31.18
+F: -34.54
+P: -23.25
+S: -29.88
+T: -31.23
+V: -30.62
+W: -30.24
+Y: -35.01
+Finished reading AAindex
+
+Started loading codon table
+Codon table loaded: universal (genetic_code.json)
+Finished loading codon table
+
+Generating nonsynonymous amino acid substitution pairs
+Identified 75 unique nonsynonymous amino acid pairs.
+AA_pair={AD, AE, AG, AP, AS, AT, AV, CF, CG, CR, CS, CW, CY, DE, DG, DH, DN, DV, DY, EG, EK, EQ, EV, FI, FL, FS, FV, FY, GR, GS, GV, GW, HL, HN, HP, HQ, HR, HY, IK, IL, IM, IN, IR, IS, IT, IV, KM, KN, KQ, KR, KT, LM, LP, LQ, LR, LS, LV, LW, MR, MT, MV, NS, NT, NY, PQ, PR, PS, PT, QR, RS, RT, RW, ST, SW, SY}
+AAindex_change={7.620, 10.670, 1.500, 2.250, 4.380, 5.730, 5.120, 1.720, 5.820, 6.200, 2.940, 2.580, 2.190, 3.050, 6.120, 1.280, 2.220, 2.500, 1.890, 9.170, 3.770, 3.570, 5.550, 2.760, 2.760, 4.660, 3.920, 0.470, 0.380, 2.880, 3.620, 3.240, 0.060, 0.940, 8.590, 0.760, 5.220, 3.170, 0.620, 0.000, 0.600, 0.880, 5.160, 1.900, 0.550, 1.160, 1.220, 1.500, 0.200, 5.780, 1.170, 0.600, 8.530, 0.820, 5.160, 1.900, 1.160, 1.540, 4.560, 0.050, 0.560, 1.020, 0.330, 4.110, 9.350, 3.370, 6.630, 7.980, 5.980, 3.260, 4.610, 3.620, 1.350, 0.360, 5.130}
+Radical substitutions written to compAAParts_0.9.dat
+
+# End time: 2025-12-11 08:07:05
