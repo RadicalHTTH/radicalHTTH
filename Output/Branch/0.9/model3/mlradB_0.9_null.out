@@ -1,0 +1,231 @@
+
+--- MODEL SUMMARY ---
+Model used: 3
+Sequence file: input/RHO_seq.dat
+Tree file: input/RHO.fa.tree
+Log likelihood: -3141.117560
+np: 104
+Start time: 2025-12-14 16:48:18
+
+--- BASE FREQUENCIES ---
+T: 0.243428  C: 0.307042  A: 0.213726  G: 0.235804
+
+--- BRANCH LENGTHS ---
+Branch  0: 0.147976  (parent node 52 -> leaf Hiamp)
+Branch  1: 0.000100  (parent node 52 -> internal node 53)
+Branch  2: 0.000100  (parent node 53 -> internal node 54)
+Branch  3: 0.009384  (parent node 54 -> internal node 55)
+Branch  4: 0.004479  (parent node 55 -> internal node 56)
+Branch  5: 0.013099  (parent node 56 -> internal node 57)
+Branch  6: 0.005972  (parent node 57 -> internal node 58)
+Branch  7: 0.006621  (parent node 58 -> internal node 59)
+Branch  8: 0.000100  (parent node 59 -> internal node 60)
+Branch  9: 0.002907  (parent node 60 -> leaf Ppho)
+Branch 10: 0.000100  (parent node 60 -> leaf Psin)
+Branch 11: 0.003003  (parent node 59 -> leaf Nsun)
+Branch 12: 0.023119  (parent node 58 -> internal node 61)
+Branch 13: 0.002960  (parent node 61 -> leaf Dleu)
+Branch 14: 0.000100  (parent node 61 -> leaf Mmon)
+Branch 15: 0.015572  (parent node 57 -> internal node 62)
+Branch 16: 0.000100  (parent node 62 -> internal node 63)
+Branch 17: 0.000100  (parent node 63 -> internal node 64)
+Branch 18: 0.000100  (parent node 64 -> internal node 65)
+Branch 19: 0.000100  (parent node 65 -> internal node 66)
+Branch 20: 0.000100  (parent node 66 -> internal node 67)
+Branch 21: 0.000100  (parent node 67 -> internal node 68)
+Branch 22: 0.005926  (parent node 68 -> leaf Ttru)
+Branch 23: 0.000100  (parent node 68 -> internal node 69)
+Branch 24: 0.000100  (parent node 69 -> internal node 70)
+Branch 25: 0.000100  (parent node 70 -> internal node 71)
+Branch 26: 0.000100  (parent node 71 -> leaf Ddel)
+Branch 27: 0.002962  (parent node 71 -> leaf Tadu)
+Branch 28: 0.000100  (parent node 70 -> internal node 72)
+Branch 29: 0.002960  (parent node 72 -> leaf Scoe)
+Branch 30: 0.005924  (parent node 72 -> leaf Scly)
+Branch 31: 0.002964  (parent node 69 -> leaf Sfro)
+Branch 32: 0.005925  (parent node 67 -> leaf Schi)
+Branch 33: 0.011883  (parent node 66 -> leaf Satt)
+Branch 34: 0.008893  (parent node 65 -> leaf Slon)
+Branch 35: 0.000100  (parent node 64 -> internal node 73)
+Branch 36: 0.000100  (parent node 73 -> internal node 74)
+Branch 37: 0.000100  (parent node 74 -> internal node 75)
+Branch 38: 0.005929  (parent node 75 -> leaf Pcra)
+Branch 39: 0.000100  (parent node 75 -> internal node 76)
+Branch 40: 0.000100  (parent node 76 -> leaf Gmel)
+Branch 41: 0.000100  (parent node 76 -> leaf Pele)
+Branch 42: 0.000100  (parent node 74 -> leaf Ggri)
+Branch 43: 0.000100  (parent node 73 -> leaf Sbre)
+Branch 44: 0.000100  (parent node 63 -> internal node 77)
+Branch 45: 0.000100  (parent node 77 -> internal node 78)
+Branch 46: 0.002959  (parent node 78 -> leaf Lalb)
+Branch 47: 0.008907  (parent node 78 -> leaf Lacu)
+Branch 48: 0.002962  (parent node 77 -> internal node 79)
+Branch 49: 0.002967  (parent node 79 -> leaf Ccom)
+Branch 50: 0.011907  (parent node 79 -> leaf Aobl)
+Branch 51: 0.008913  (parent node 62 -> leaf Oorc)
+Branch 52: 0.020200  (parent node 56 -> internal node 80)
+Branch 53: 0.058373  (parent node 80 -> leaf Igeo)
+Branch 54: 0.023695  (parent node 80 -> leaf Lvex)
+Branch 55: 0.035604  (parent node 55 -> internal node 81)
+Branch 56: 0.014897  (parent node 81 -> leaf Zcav)
+Branch 57: 0.006564  (parent node 81 -> internal node 82)
+Branch 58: 0.006540  (parent node 82 -> internal node 83)
+Branch 59: 0.008872  (parent node 83 -> leaf Mbid)
+Branch 60: 0.000100  (parent node 83 -> internal node 84)
+Branch 61: 0.000100  (parent node 84 -> internal node 85)
+Branch 62: 0.008873  (parent node 85 -> leaf Mden)
+Branch 63: 0.002950  (parent node 85 -> leaf Mste)
+Branch 64: 0.002951  (parent node 84 -> internal node 86)
+Branch 65: 0.002951  (parent node 86 -> leaf Mmir)
+Branch 66: 0.000100  (parent node 86 -> leaf Meur)
+Branch 67: 0.000100  (parent node 82 -> leaf Hyamp)
+Branch 68: 0.021702  (parent node 54 -> internal node 87)
+Branch 69: 0.000100  (parent node 87 -> leaf Pmin)
+Branch 70: 0.000100  (parent node 87 -> leaf Pgan)
+Branch 71: 0.023931  (parent node 53 -> internal node 88)
+Branch 72: 0.007015  (parent node 88 -> leaf Pmac)
+Branch 73: 0.050299  (parent node 88 -> internal node 89)
+Branch 74: 0.002961  (parent node 89 -> leaf Kbre)
+Branch 75: 0.000100  (parent node 89 -> leaf Ksim)
+Branch 76: 0.022840  (parent node 52 -> internal node 90)
+Branch 77: 0.002968  (parent node 90 -> internal node 91)
+Branch 78: 0.014423  (parent node 91 -> internal node 92)
+Branch 79: 0.000100  (parent node 92 -> internal node 93)
+Branch 80: 0.000100  (parent node 93 -> internal node 94)
+Branch 81: 0.011817  (parent node 94 -> leaf Bmus)
+Branch 82: 0.008865  (parent node 94 -> internal node 95)
+Branch 83: 0.000100  (parent node 95 -> internal node 96)
+Branch 84: 0.000100  (parent node 96 -> leaf Bbor)
+Branch 85: 0.000100  (parent node 96 -> leaf Bede)
+Branch 86: 0.000100  (parent node 95 -> leaf Bric)
+Branch 87: 0.008862  (parent node 93 -> internal node 97)
+Branch 88: 0.000100  (parent node 97 -> internal node 98)
+Branch 89: 0.002949  (parent node 98 -> leaf Bphy)
+Branch 90: 0.011824  (parent node 98 -> leaf Mnov)
+Branch 91: 0.008868  (parent node 97 -> leaf Erob)
+Branch 92: 0.017773  (parent node 92 -> internal node 99)
+Branch 93: 0.000100  (parent node 99 -> leaf Bacu)
+Branch 94: 0.005908  (parent node 99 -> leaf Bbon)
+Branch 95: 0.030128  (parent node 91 -> leaf Cmar)
+Branch 96: 0.016080  (parent node 90 -> internal node 100)
+Branch 97: 0.010377  (parent node 100 -> leaf Bmys)
+Branch 98: 0.000100  (parent node 100 -> internal node 101)
+Branch 99: 0.000100  (parent node 101 -> leaf Egla)
+Branch 100: 0.000100  (parent node 101 -> leaf Eaus)
+
+--- TREE WITH ESTIMATED BRANCH LENGTHS (NEWICK) ---
+(Hiamp:0.147976,((((((((Ppho:0.00290707,Psin:0.0001):0.0001,Nsun:0.00300283):0.00662077,(Dleu:0.00296022,Mmon:0.0001):0.0231194):0.005972,(((((((Ttru:0.00592584,(((Ddel:0.0001,Tadu:0.00296224):0.0001,(Scoe:0.00295972,Scly:0.00592351):0.0001):0.0001,Sfro:0.0029641):0.0001):0.0001,Schi:0.00592522):0.0001,Satt:0.0118829):0.0001,Slon:0.00889322):0.0001,(((Pcra:0.00592912,(Gmel:0.0001,Pele:0.0001):0.0001):0.0001,Ggri:0.0001):0.0001,Sbre:0.0001):0.0001):0.0001,((Lalb:0.00295925,Lacu:0.00890668):0.0001,(Ccom:0.00296698,Aobl:0.0119067):0.00296153):0.0001):0.0001,Oorc:0.0089126):0.0155723):0.0130987,(Igeo:0.0583725,Lvex:0.0236949):0.0202004):0.00447891,(Zcav:0.0148965,((Mbid:0.00887177,((Mden:0.00887275,Mste:0.00294982):0.0001,(Mmir:0.00295103,Meur:0.0001):0.00295133):0.0001):0.0065396,Hyamp:0.0001):0.00656434):0.0356041):0.00938444,(Pmin:0.0001,Pgan:0.0001):0.0217015):0.0001,(Pmac:0.00701477,(Kbre:0.00296142,Ksim:0.0001):0.0502994):0.0239313):0.0001,(((((Bmus:0.0118167,((Bbor:0.0001,Bede:0.0001):0.0001,Bric:0.0001):0.00886525):0.0001,((Bphy:0.00294883,Mnov:0.0118239):0.0001,Erob:0.00886845):0.00886242):0.0001,(Bacu:0.0001,Bbon:0.00590752):0.0177729):0.014423,Cmar:0.0301278):0.00296788,(Bmys:0.0103768,(Egla:0.0001,Eaus:0.0001):0.0001):0.0160798):0.0228398);
+
+--- ASCII PHYLOGRAM (estimated branch lengths) ---
+
+[DEBUG] ASCII phylogram ('-' = background, '=' = foreground)
+(root)
+|---------------------------------------- Hiamp
+|-- (*)
+|  |-- (*)
+|  |  |--- (*)
+|  |  |   |-- (*)
+|  |  |   |  |---- (*)
+|  |  |   |  |    |-- (*)
+|  |  |   |  |    |  |-- (*)
+|  |  |   |  |    |  |  |-- (*)
+|  |  |   |  |    |  |  |  |-- Ppho
+|  |  |   |  |    |  |  |  `-- Psin
+|  |  |   |  |    |  |  `-- Nsun
+|  |  |   |  |    |  `------ (*)
+|  |  |   |  |    |         |-- Dleu
+|  |  |   |  |    |         `-- Mmon
+|  |  |   |  |    `---- (*)
+|  |  |   |  |         |-- (*)
+|  |  |   |  |         |  |-- (*)
+|  |  |   |  |         |  |  |-- (*)
+|  |  |   |  |         |  |  |  |-- (*)
+|  |  |   |  |         |  |  |  |  |-- (*)
+|  |  |   |  |         |  |  |  |  |  |-- (*)
+|  |  |   |  |         |  |  |  |  |  |  |-- Ttru
+|  |  |   |  |         |  |  |  |  |  |  `-- (*)
+|  |  |   |  |         |  |  |  |  |  |     |-- (*)
+|  |  |   |  |         |  |  |  |  |  |     |  |-- (*)
+|  |  |   |  |         |  |  |  |  |  |     |  |  |-- Ddel
+|  |  |   |  |         |  |  |  |  |  |     |  |  `-- Tadu
+|  |  |   |  |         |  |  |  |  |  |     |  `-- (*)
+|  |  |   |  |         |  |  |  |  |  |     |     |-- Scoe
+|  |  |   |  |         |  |  |  |  |  |     |     `-- Scly
+|  |  |   |  |         |  |  |  |  |  |     `-- Sfro
+|  |  |   |  |         |  |  |  |  |  `-- Schi
+|  |  |   |  |         |  |  |  |  `--- Satt
+|  |  |   |  |         |  |  |  `-- Slon
+|  |  |   |  |         |  |  `-- (*)
+|  |  |   |  |         |  |     |-- (*)
+|  |  |   |  |         |  |     |  |-- (*)
+|  |  |   |  |         |  |     |  |  |-- Pcra
+|  |  |   |  |         |  |     |  |  `-- (*)
+|  |  |   |  |         |  |     |  |     |-- Gmel
+|  |  |   |  |         |  |     |  |     `-- Pele
+|  |  |   |  |         |  |     |  `-- Ggri
+|  |  |   |  |         |  |     `-- Sbre
+|  |  |   |  |         |  `-- (*)
+|  |  |   |  |         |     |-- (*)
+|  |  |   |  |         |     |  |-- Lalb
+|  |  |   |  |         |     |  `-- Lacu
+|  |  |   |  |         |     `-- (*)
+|  |  |   |  |         |        |-- Ccom
+|  |  |   |  |         |        `--- Aobl
+|  |  |   |  |         `-- Oorc
+|  |  |   |  `----- (*)
+|  |  |   |        |---------------- Igeo
+|  |  |   |        `------ Lvex
+|  |  |   `---------- (*)
+|  |  |              |---- Zcav
+|  |  |              `-- (*)
+|  |  |                 |-- (*)
+|  |  |                 |  |-- Mbid
+|  |  |                 |  `-- (*)
+|  |  |                 |     |-- (*)
+|  |  |                 |     |  |-- Mden
+|  |  |                 |     |  `-- Mste
+|  |  |                 |     `-- (*)
+|  |  |                 |        |-- Mmir
+|  |  |                 |        `-- Meur
+|  |  |                 `-- Hyamp
+|  |  `------ (*)
+|  |         |-- Pmin
+|  |         `-- Pgan
+|  `------ (*)
+|         |-- Pmac
+|         `-------------- (*)
+|                        |-- Kbre
+|                        `-- Ksim
+`------ (*)
+       |-- (*)
+       |  |---- (*)
+       |  |    |-- (*)
+       |  |    |  |-- (*)
+       |  |    |  |  |--- Bmus
+       |  |    |  |  `-- (*)
+       |  |    |  |     |-- (*)
+       |  |    |  |     |  |-- Bbor
+       |  |    |  |     |  `-- Bede
+       |  |    |  |     `-- Bric
+       |  |    |  `-- (*)
+       |  |    |     |-- (*)
+       |  |    |     |  |-- Bphy
+       |  |    |     |  `--- Mnov
+       |  |    |     `-- Erob
+       |  |    `----- (*)
+       |  |          |-- Bacu
+       |  |          `-- Bbon
+       |  `-------- Cmar
+       `---- (*)
+            |--- Bmys
+            `-- (*)
+               |-- Egla
+               `-- Eaus
+
+--- PARAMETERS ---
+Kappa: 5.383881
+Omega: 0.290783
+Gamma (background):    1.027437
+NOTE: no branches labeled #1 or #2 in the tree (only background gamma is used).
+
+End time: 2025-12-14 19:24:28

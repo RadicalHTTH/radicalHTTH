@@ -1,0 +1,585 @@
+
+--- MODEL SUMMARY ---
+Model used: 2
+Sequence file: input/RHO_seq.dat
+Tree file: input/RHO.fa.tree
+Log likelihood: -3085.514997
+np: 106
+Start time: 2025-12-16 02:03:41
+
+--- BASE FREQUENCIES ---
+T: 0.240417  C: 0.312954  A: 0.203172  G: 0.243457
+
+--- BRANCH LENGTHS ---
+Branch  0: 0.152729  (parent node 52 -> leaf Hiamp)
+Branch  1: 0.002387  (parent node 52 -> internal node 53)
+Branch  2: 0.000100  (parent node 53 -> internal node 54)
+Branch  3: 0.008509  (parent node 54 -> internal node 55)
+Branch  4: 0.004329  (parent node 55 -> internal node 56)
+Branch  5: 0.013285  (parent node 56 -> internal node 57)
+Branch  6: 0.005612  (parent node 57 -> internal node 58)
+Branch  7: 0.006648  (parent node 58 -> internal node 59)
+Branch  8: 0.000100  (parent node 59 -> internal node 60)
+Branch  9: 0.002873  (parent node 60 -> leaf Ppho)
+Branch 10: 0.000100  (parent node 60 -> leaf Psin)
+Branch 11: 0.002957  (parent node 59 -> leaf Nsun)
+Branch 12: 0.023035  (parent node 58 -> internal node 61)
+Branch 13: 0.002917  (parent node 61 -> leaf Dleu)
+Branch 14: 0.000100  (parent node 61 -> leaf Mmon)
+Branch 15: 0.015536  (parent node 57 -> internal node 62)
+Branch 16: 0.000100  (parent node 62 -> internal node 63)
+Branch 17: 0.000100  (parent node 63 -> internal node 64)
+Branch 18: 0.000100  (parent node 64 -> internal node 65)
+Branch 19: 0.000100  (parent node 65 -> internal node 66)
+Branch 20: 0.000100  (parent node 66 -> internal node 67)
+Branch 21: 0.000100  (parent node 67 -> internal node 68)
+Branch 22: 0.005829  (parent node 68 -> leaf Ttru)
+Branch 23: 0.000100  (parent node 68 -> internal node 69)
+Branch 24: 0.000100  (parent node 69 -> internal node 70)
+Branch 25: 0.000100  (parent node 70 -> internal node 71)
+Branch 26: 0.000100  (parent node 71 -> leaf Ddel)
+Branch 27: 0.002913  (parent node 71 -> leaf Tadu)
+Branch 28: 0.000100  (parent node 70 -> internal node 72)
+Branch 29: 0.002910  (parent node 72 -> leaf Scoe)
+Branch 30: 0.005827  (parent node 72 -> leaf Scly)
+Branch 31: 0.002913  (parent node 69 -> leaf Sfro)
+Branch 32: 0.005828  (parent node 67 -> leaf Schi)
+Branch 33: 0.011707  (parent node 66 -> leaf Satt)
+Branch 34: 0.008753  (parent node 65 -> leaf Slon)
+Branch 35: 0.000100  (parent node 64 -> internal node 73)
+Branch 36: 0.000100  (parent node 73 -> internal node 74)
+Branch 37: 0.000100  (parent node 74 -> internal node 75)
+Branch 38: 0.005833  (parent node 75 -> leaf Pcra)
+Branch 39: 0.000100  (parent node 75 -> internal node 76)
+Branch 40: 0.000100  (parent node 76 -> leaf Gmel)
+Branch 41: 0.000100  (parent node 76 -> leaf Pele)
+Branch 42: 0.000100  (parent node 74 -> leaf Ggri)
+Branch 43: 0.000100  (parent node 73 -> leaf Sbre)
+Branch 44: 0.000100  (parent node 63 -> internal node 77)
+Branch 45: 0.000100  (parent node 77 -> internal node 78)
+Branch 46: 0.002909  (parent node 78 -> leaf Lalb)
+Branch 47: 0.008745  (parent node 78 -> leaf Lacu)
+Branch 48: 0.002911  (parent node 77 -> internal node 79)
+Branch 49: 0.002917  (parent node 79 -> leaf Ccom)
+Branch 50: 0.011734  (parent node 79 -> leaf Aobl)
+Branch 51: 0.008751  (parent node 62 -> leaf Oorc)
+Branch 52: 0.020250  (parent node 56 -> internal node 80)
+Branch 53: 0.058958  (parent node 80 -> leaf Igeo)
+Branch 54: 0.024589  (parent node 80 -> leaf Lvex)
+Branch 55: 0.036118  (parent node 55 -> internal node 81)
+Branch 56: 0.015645  (parent node 81 -> leaf Zcav)
+Branch 57: 0.005617  (parent node 81 -> internal node 82)
+Branch 58: 0.005169  (parent node 82 -> internal node 83)
+Branch 59: 0.008713  (parent node 83 -> leaf Mbid)
+Branch 60: 0.000100  (parent node 83 -> internal node 84)
+Branch 61: 0.000100  (parent node 84 -> internal node 85)
+Branch 62: 0.008716  (parent node 85 -> leaf Mden)
+Branch 63: 0.002896  (parent node 85 -> leaf Mste)
+Branch 64: 0.002895  (parent node 84 -> internal node 86)
+Branch 65: 0.002895  (parent node 86 -> leaf Mmir)
+Branch 66: 0.000100  (parent node 86 -> leaf Meur)
+Branch 67: 0.003566  (parent node 82 -> leaf Hyamp)
+Branch 68: 0.021595  (parent node 54 -> internal node 87)
+Branch 69: 0.000100  (parent node 87 -> leaf Pmin)
+Branch 70: 0.000100  (parent node 87 -> leaf Pgan)
+Branch 71: 0.023608  (parent node 53 -> internal node 88)
+Branch 72: 0.007317  (parent node 88 -> leaf Pmac)
+Branch 73: 0.051330  (parent node 88 -> internal node 89)
+Branch 74: 0.002889  (parent node 89 -> leaf Kbre)
+Branch 75: 0.000100  (parent node 89 -> leaf Ksim)
+Branch 76: 0.020618  (parent node 52 -> internal node 90)
+Branch 77: 0.003022  (parent node 90 -> internal node 91)
+Branch 78: 0.015240  (parent node 91 -> internal node 92)
+Branch 79: 0.000100  (parent node 92 -> internal node 93)
+Branch 80: 0.000100  (parent node 93 -> internal node 94)
+Branch 81: 0.011592  (parent node 94 -> leaf Bmus)
+Branch 82: 0.008661  (parent node 94 -> internal node 95)
+Branch 83: 0.000100  (parent node 95 -> internal node 96)
+Branch 84: 0.000100  (parent node 96 -> leaf Bbor)
+Branch 85: 0.000100  (parent node 96 -> leaf Bede)
+Branch 86: 0.000100  (parent node 95 -> leaf Bric)
+Branch 87: 0.008674  (parent node 93 -> internal node 97)
+Branch 88: 0.000100  (parent node 97 -> internal node 98)
+Branch 89: 0.002882  (parent node 98 -> leaf Bphy)
+Branch 90: 0.011627  (parent node 98 -> leaf Mnov)
+Branch 91: 0.008678  (parent node 97 -> leaf Erob)
+Branch 92: 0.017484  (parent node 92 -> internal node 99)
+Branch 93: 0.000100  (parent node 99 -> leaf Bacu)
+Branch 94: 0.005778  (parent node 99 -> leaf Bbon)
+Branch 95: 0.028628  (parent node 91 -> leaf Cmar)
+Branch 96: 0.015553  (parent node 90 -> internal node 100)
+Branch 97: 0.008732  (parent node 100 -> leaf Bmys)
+Branch 98: 0.002880  (parent node 100 -> internal node 101)
+Branch 99: 0.000100  (parent node 101 -> leaf Egla)
+Branch 100: 0.000100  (parent node 101 -> leaf Eaus)
+
+--- TREE WITH ESTIMATED BRANCH LENGTHS (NEWICK) ---
+(Hiamp:0.152729,((((((((Ppho:0.00287267,Psin:0.0001):0.0001,Nsun:0.00295718):0.00664781,(Dleu:0.00291717,Mmon:0.0001):0.0230346):0.00561161,(((((((Ttru:0.00582926,(((Ddel:0.0001,Tadu:0.00291322):0.0001,(Scoe:0.00290979,Scly:0.00582668):0.0001):0.0001,Sfro:0.00291252):0.0001):0.0001,Schi:0.00582824):0.0001,Satt:0.0117067):0.0001,Slon:0.00875268):0.0001,(((Pcra:0.00583311,(Gmel:0.0001,Pele:0.0001):0.0001):0.0001,Ggri:0.0001):0.0001,Sbre:0.0001):0.0001):0.0001,((Lalb:0.00290917,Lacu:0.00874515):0.0001,(Ccom:0.00291675,Aobl:0.0117343):0.00291138):0.0001):0.0001,Oorc:0.0087509):0.0155365):0.0132847,(Igeo:0.058958,Lvex:0.0245887):0.02025):0.00432929,(Zcav:0.0156452,((Mbid:0.00871336,((Mden:0.00871616,Mste:0.00289626):0.0001,(Mmir:0.00289524,Meur:0.0001):0.00289501):0.0001):0.00516932,Hyamp:0.00356586):0.00561676):0.036118):0.00850878,(Pmin:0.0001,Pgan:0.0001):0.0215953):0.0001,(Pmac:0.00731676,(Kbre:0.0028895,Ksim:0.0001):0.0513299):0.0236076):0.00238734,(((((Bmus:0.0115916,((Bbor:0.0001,Bede:0.0001):0.0001,Bric:0.0001):0.00866074):0.0001,((Bphy:0.00288189,Mnov:0.0116266):0.0001,Erob:0.00867786):0.00867433):0.0001,(Bacu:0.0001,Bbon:0.00577766):0.0174837):0.0152398,Cmar:0.0286283):0.00302187,(Bmys:0.00873172,(Egla:0.0001,Eaus:0.0001):0.00288007):0.0155533):0.0206178);
+
+--- ASCII PHYLOGRAM (estimated branch lengths) ---
+
+[DEBUG] ASCII phylogram ('-' = background, '=' = foreground)
+(root)
+|---------------------------------------- Hiamp
+|-- (*)
+|  |-- (*)
+|  |  |-- (*)
+|  |  |  |-- (*)
+|  |  |  |  |--- (*)
+|  |  |  |  |   |-- (*)
+|  |  |  |  |   |  |-- (*)
+|  |  |  |  |   |  |  |-- (*)
+|  |  |  |  |   |  |  |  |-- Ppho
+|  |  |  |  |   |  |  |  `-- Psin
+|  |  |  |  |   |  |  `-- Nsun
+|  |  |  |  |   |  `------ (*)
+|  |  |  |  |   |         |-- Dleu
+|  |  |  |  |   |         `-- Mmon
+|  |  |  |  |   `---- (*)
+|  |  |  |  |        |-- (*)
+|  |  |  |  |        |  |-- (*)
+|  |  |  |  |        |  |  |-- (*)
+|  |  |  |  |        |  |  |  |-- (*)
+|  |  |  |  |        |  |  |  |  |-- (*)
+|  |  |  |  |        |  |  |  |  |  |-- (*)
+|  |  |  |  |        |  |  |  |  |  |  |-- Ttru
+|  |  |  |  |        |  |  |  |  |  |  `-- (*)
+|  |  |  |  |        |  |  |  |  |  |     |-- (*)
+|  |  |  |  |        |  |  |  |  |  |     |  |-- (*)
+|  |  |  |  |        |  |  |  |  |  |     |  |  |-- Ddel
+|  |  |  |  |        |  |  |  |  |  |     |  |  `-- Tadu
+|  |  |  |  |        |  |  |  |  |  |     |  `-- (*)
+|  |  |  |  |        |  |  |  |  |  |     |     |-- Scoe
+|  |  |  |  |        |  |  |  |  |  |     |     `-- Scly
+|  |  |  |  |        |  |  |  |  |  |     `-- Sfro
+|  |  |  |  |        |  |  |  |  |  `-- Schi
+|  |  |  |  |        |  |  |  |  `--- Satt
+|  |  |  |  |        |  |  |  `-- Slon
+|  |  |  |  |        |  |  `-- (*)
+|  |  |  |  |        |  |     |-- (*)
+|  |  |  |  |        |  |     |  |-- (*)
+|  |  |  |  |        |  |     |  |  |-- Pcra
+|  |  |  |  |        |  |     |  |  `-- (*)
+|  |  |  |  |        |  |     |  |     |-- Gmel
+|  |  |  |  |        |  |     |  |     `-- Pele
+|  |  |  |  |        |  |     |  `-- Ggri
+|  |  |  |  |        |  |     `-- Sbre
+|  |  |  |  |        |  `-- (*)
+|  |  |  |  |        |     |-- (*)
+|  |  |  |  |        |     |  |-- Lalb
+|  |  |  |  |        |     |  `-- Lacu
+|  |  |  |  |        |     `-- (*)
+|  |  |  |  |        |        |-- Ccom
+|  |  |  |  |        |        `--- Aobl
+|  |  |  |  |        `-- Oorc
+|  |  |  |  `----- (*)
+|  |  |  |        |--------------- Igeo
+|  |  |  |        `------ Lvex
+|  |  |  `========= (*) [#1]
+|  |  |            |---- Zcav
+|  |  |            `-- (*)
+|  |  |               |-- (*)
+|  |  |               |  |-- Mbid
+|  |  |               |  `-- (*)
+|  |  |               |     |-- (*)
+|  |  |               |     |  |-- Mden
+|  |  |               |     |  `-- Mste
+|  |  |               |     `-- (*)
+|  |  |               |        |-- Mmir
+|  |  |               |        `-- Meur
+|  |  |               `-- Hyamp
+|  |  `------ (*)
+|  |         |-- Pmin
+|  |         `-- Pgan
+|  `====== (*) [#1]
+|         |-- Pmac
+|         `------------- (*)
+|                       |-- Kbre
+|                       `-- Ksim
+`----- (*)
+      |-- (*)
+      |  |---- (*)
+      |  |    |-- (*)
+      |  |    |  |-- (*)
+      |  |    |  |  |--- Bmus
+      |  |    |  |  `-- (*)
+      |  |    |  |     |-- (*)
+      |  |    |  |     |  |-- Bbor
+      |  |    |  |     |  `-- Bede
+      |  |    |  |     `-- Bric
+      |  |    |  `-- (*)
+      |  |    |     |-- (*)
+      |  |    |     |  |-- Bphy
+      |  |    |     |  `--- Mnov
+      |  |    |     `-- Erob
+      |  |    `----- (*)
+      |  |          |-- Bacu
+      |  |          `-- Bbon
+      |  `------- Cmar
+      `---- (*)
+           |-- Bmys
+           `-- (*)
+              |-- Egla
+              `-- Eaus
+
+--- PARAMETERS ---
+Kappa: 5.627159
+Omega[0]: 0.000100
+Omega[1]: 6.449973
+Gamma[0][0]: 0.185453
+
+--- CATEGORY PROBABILITIES ---
+P(Omega 0, Gamma 0): 0.701473
+P(Omega 1, Gamma 0): 0.298527
+
+--- POSTERIOR PROBABILITIES PER SITE ---
+Site    1: C1: 0.954  C2: 0.046  
+Site    2: C1: 0.966  C2: 0.034  
+Site    3: C1: 0.611  C2: 0.389  
+Site    4: C1: 0.815  C2: 0.185  
+Site    5: C1: 0.800  C2: 0.200  
+Site    6: C1: 0.593  C2: 0.407  
+Site    7: C1: 0.882  C2: 0.118  
+Site    8: C1: 0.928  C2: 0.072  
+Site    9: C1: 0.613  C2: 0.387  
+Site   10: C1: 0.791  C2: 0.209  
+Site   11: C1: 0.881  C2: 0.119  
+Site   12: C1: 0.544  C2: 0.456  
+Site   13: C1: 0.613  C2: 0.387  
+Site   14: C1: 0.987  C2: 0.013  
+Site   15: C1: 0.928  C2: 0.072  
+Site   16: C1: 0.000  C2: 1.000  
+Site   17: C1: 0.949  C2: 0.051  
+Site   18: C1: 0.593  C2: 0.407  
+Site   19: C1: 0.881  C2: 0.119  
+Site   20: C1: 0.881  C2: 0.119  
+Site   21: C1: 0.562  C2: 0.438  
+Site   22: C1: 0.837  C2: 0.163  
+Site   23: C1: 0.522  C2: 0.478  
+Site   24: C1: 0.781  C2: 0.219  
+Site   25: C1: 0.642  C2: 0.358  
+Site   26: C1: 0.791  C2: 0.209  
+Site   27: C1: 0.553  C2: 0.447  
+Site   28: C1: 0.631  C2: 0.369  
+Site   29: C1: 0.630  C2: 0.370  
+Site   30: C1: 0.630  C2: 0.370  
+Site   31: C1: 0.611  C2: 0.389  
+Site   32: C1: 0.765  C2: 0.235  
+Site   33: C1: 0.642  C2: 0.358  
+Site   34: C1: 0.734  C2: 0.266  
+Site   35: C1: 0.741  C2: 0.259  
+Site   36: C1: 0.631  C2: 0.369  
+Site   37: C1: 0.613  C2: 0.387  
+Site   38: C1: 0.561  C2: 0.439  
+Site   39: C1: 0.000  C2: 1.000  
+Site   40: C1: 0.611  C2: 0.389  
+Site   41: C1: 0.934  C2: 0.066  
+Site   42: C1: 0.562  C2: 0.438  
+Site   43: C1: 0.630  C2: 0.370  
+Site   44: C1: 0.954  C2: 0.046  
+Site   45: C1: 0.779  C2: 0.221  
+Site   46: C1: 0.889  C2: 0.111  
+Site   47: C1: 0.611  C2: 0.389  
+Site   48: C1: 0.988  C2: 0.012  
+Site   49: C1: 0.000  C2: 1.000  
+Site   50: C1: 0.997  C2: 0.003  
+Site   51: C1: 0.766  C2: 0.234  
+Site   52: C1: 0.613  C2: 0.387  
+Site   53: C1: 0.522  C2: 0.478  
+Site   54: C1: 0.973  C2: 0.027  
+Site   55: C1: 0.928  C2: 0.072  
+Site   56: C1: 0.613  C2: 0.387  
+Site   57: C1: 0.729  C2: 0.271  
+Site   58: C1: 0.918  C2: 0.082  
+Site   59: C1: 0.729  C2: 0.271  
+Site   60: C1: 0.791  C2: 0.209  
+Site   61: C1: 0.888  C2: 0.112  
+Site   62: C1: 0.816  C2: 0.184  
+Site   63: C1: 0.989  C2: 0.011  
+Site   64: C1: 0.631  C2: 0.369  
+Site   65: C1: 0.753  C2: 0.247  
+Site   66: C1: 0.704  C2: 0.296  
+Site   67: C1: 0.704  C2: 0.296  
+Site   68: C1: 0.611  C2: 0.389  
+Site   69: C1: 0.562  C2: 0.438  
+Site   70: C1: 0.660  C2: 0.340  
+Site   71: C1: 0.544  C2: 0.456  
+Site   72: C1: 0.852  C2: 0.148  
+Site   73: C1: 0.928  C2: 0.072  
+Site   74: C1: 0.630  C2: 0.370  
+Site   75: C1: 0.973  C2: 0.027  
+Site   76: C1: 0.611  C2: 0.389  
+Site   77: C1: 0.729  C2: 0.271  
+Site   78: C1: 0.928  C2: 0.072  
+Site   79: C1: 0.611  C2: 0.389  
+Site   80: C1: 0.742  C2: 0.258  
+Site   81: C1: 0.943  C2: 0.057  
+Site   82: C1: 0.742  C2: 0.258  
+Site   83: C1: 0.991  C2: 0.009  
+Site   84: C1: 0.729  C2: 0.271  
+Site   85: C1: 0.613  C2: 0.387  
+Site   86: C1: 0.954  C2: 0.046  
+Site   87: C1: 0.888  C2: 0.112  
+Site   88: C1: 0.999  C2: 0.001  
+Site   89: C1: 0.606  C2: 0.394  
+Site   90: C1: 0.593  C2: 0.407  
+Site   91: C1: 0.613  C2: 0.387  
+Site   92: C1: 0.878  C2: 0.122  
+Site   93: C1: 0.878  C2: 0.122  
+Site   94: C1: 0.941  C2: 0.059  
+Site   95: C1: 0.729  C2: 0.271  
+Site   96: C1: 0.630  C2: 0.370  
+Site   97: C1: 0.878  C2: 0.122  
+Site   98: C1: 0.579  C2: 0.421  
+Site   99: C1: 0.000  C2: 1.000  
+Site  100: C1: 0.001  C2: 0.999  
+Site  101: C1: 0.877  C2: 0.123  
+Site  102: C1: 0.630  C2: 0.370  
+Site  103: C1: 0.613  C2: 0.387  
+Site  104: C1: 0.000  C2: 1.000  
+Site  105: C1: 0.888  C2: 0.112  
+Site  106: C1: 0.611  C2: 0.389  
+Site  107: C1: 0.522  C2: 0.478  
+Site  108: C1: 0.963  C2: 0.037  
+Site  109: C1: 0.782  C2: 0.218  
+Site  110: C1: 0.616  C2: 0.384  
+Site  111: C1: 0.984  C2: 0.016  
+Site  112: C1: 0.000  C2: 1.000  
+Site  113: C1: 0.642  C2: 0.358  
+Site  114: C1: 0.593  C2: 0.407  
+Site  115: C1: 0.613  C2: 0.387  
+Site  116: C1: 0.786  C2: 0.214  
+Site  117: C1: 0.562  C2: 0.438  
+Site  118: C1: 0.878  C2: 0.122  
+Site  119: C1: 0.778  C2: 0.222  
+Site  120: C1: 0.767  C2: 0.233  
+Site  121: C1: 0.606  C2: 0.394  
+Site  122: C1: 0.645  C2: 0.355  
+Site  123: C1: 0.000  C2: 1.000  
+Site  124: C1: 0.562  C2: 0.438  
+Site  125: C1: 0.627  C2: 0.373  
+Site  126: C1: 0.741  C2: 0.259  
+Site  127: C1: 0.749  C2: 0.251  
+Site  128: C1: 0.640  C2: 0.360  
+Site  129: C1: 0.881  C2: 0.119  
+Site  130: C1: 0.888  C2: 0.112  
+Site  131: C1: 0.611  C2: 0.389  
+Site  132: C1: 0.562  C2: 0.438  
+Site  133: C1: 0.994  C2: 0.006  
+Site  134: C1: 0.642  C2: 0.358  
+Site  135: C1: 0.877  C2: 0.123  
+Site  136: C1: 0.630  C2: 0.370  
+Site  137: C1: 0.000  C2: 1.000  
+Site  138: C1: 0.881  C2: 0.119  
+Site  139: C1: 0.881  C2: 0.119  
+Site  140: C1: 0.624  C2: 0.376  
+Site  141: C1: 0.704  C2: 0.296  
+Site  142: C1: 0.710  C2: 0.290  
+Site  143: C1: 0.954  C2: 0.046  
+Site  144: C1: 0.837  C2: 0.163  
+Site  145: C1: 0.928  C2: 0.072  
+Site  146: C1: 0.613  C2: 0.387  
+Site  147: C1: 0.562  C2: 0.438  
+Site  148: C1: 0.613  C2: 0.387  
+Site  149: C1: 0.611  C2: 0.389  
+Site  150: C1: 0.642  C2: 0.358  
+Site  151: C1: 0.000  C2: 1.000  
+Site  152: C1: 0.859  C2: 0.141  
+Site  153: C1: 0.562  C2: 0.438  
+Site  154: C1: 0.973  C2: 0.027  
+Site  155: C1: 0.002  C2: 0.998  
+Site  156: C1: 0.593  C2: 0.407  
+Site  157: C1: 0.859  C2: 0.141  
+Site  158: C1: 0.865  C2: 0.135  
+Site  159: C1: 0.000  C2: 1.000  
+Site  160: C1: 0.987  C2: 0.013  
+Site  161: C1: 0.741  C2: 0.259  
+Site  162: C1: 0.002  C2: 0.998  
+Site  163: C1: 0.954  C2: 0.046  
+Site  164: C1: 0.757  C2: 0.243  
+Site  165: C1: 0.885  C2: 0.115  
+Site  166: C1: 0.742  C2: 0.258  
+Site  167: C1: 0.786  C2: 0.214  
+Site  168: C1: 0.562  C2: 0.438  
+Site  169: C1: 0.877  C2: 0.123  
+Site  170: C1: 0.711  C2: 0.289  
+Site  171: C1: 0.845  C2: 0.155  
+Site  172: C1: 0.729  C2: 0.271  
+Site  173: C1: 0.888  C2: 0.112  
+Site  174: C1: 0.593  C2: 0.407  
+Site  175: C1: 0.741  C2: 0.259  
+Site  176: C1: 0.561  C2: 0.439  
+Site  177: C1: 0.630  C2: 0.370  
+Site  178: C1: 0.630  C2: 0.370  
+Site  179: C1: 0.973  C2: 0.027  
+Site  180: C1: 0.861  C2: 0.139  
+Site  181: C1: 0.642  C2: 0.358  
+Site  182: C1: 0.617  C2: 0.383  
+Site  183: C1: 0.954  C2: 0.046  
+Site  184: C1: 0.631  C2: 0.369  
+Site  185: C1: 0.616  C2: 0.384  
+Site  186: C1: 0.808  C2: 0.192  
+Site  187: C1: 0.891  C2: 0.109  
+Site  188: C1: 0.611  C2: 0.389  
+Site  189: C1: 0.003  C2: 0.997  
+Site  190: C1: 0.626  C2: 0.374  
+Site  191: C1: 0.630  C2: 0.370  
+Site  192: C1: 0.895  C2: 0.105  
+Site  193: C1: 0.911  C2: 0.089  
+Site  194: C1: 0.908  C2: 0.092  
+Site  195: C1: 0.007  C2: 0.993  
+Site  196: C1: 0.971  C2: 0.029  
+Site  197: C1: 0.642  C2: 0.358  
+Site  198: C1: 0.000  C2: 1.000  
+Site  199: C1: 0.928  C2: 0.072  
+Site  200: C1: 0.951  C2: 0.049  
+Site  201: C1: 0.899  C2: 0.101  
+Site  202: C1: 0.561  C2: 0.439  
+Site  203: C1: 0.887  C2: 0.113  
+Site  204: C1: 0.888  C2: 0.112  
+Site  205: C1: 0.001  C2: 0.999  
+Site  206: C1: 0.630  C2: 0.370  
+Site  207: C1: 0.954  C2: 0.046  
+Site  208: C1: 0.782  C2: 0.218  
+Site  209: C1: 0.881  C2: 0.119  
+Site  210: C1: 0.947  C2: 0.053  
+Site  211: C1: 0.753  C2: 0.247  
+Site  212: C1: 0.613  C2: 0.387  
+Site  213: C1: 0.896  C2: 0.104  
+Site  214: C1: 0.973  C2: 0.027  
+Site  215: C1: 0.522  C2: 0.478  
+Site  216: C1: 0.948  C2: 0.052  
+Site  217: C1: 0.000  C2: 1.000  
+Site  218: C1: 0.973  C2: 0.027  
+Site  219: C1: 0.987  C2: 0.013  
+Site  220: C1: 0.784  C2: 0.216  
+Site  221: C1: 0.779  C2: 0.221  
+Site  222: C1: 0.616  C2: 0.384  
+Site  223: C1: 0.989  C2: 0.011  
+Site  224: C1: 0.611  C2: 0.389  
+Site  225: C1: 0.631  C2: 0.369  
+Site  226: C1: 0.778  C2: 0.222  
+Site  227: C1: 0.888  C2: 0.112  
+Site  228: C1: 0.779  C2: 0.221  
+Site  229: C1: 0.820  C2: 0.180  
+Site  230: C1: 0.888  C2: 0.112  
+Site  231: C1: 0.704  C2: 0.296  
+Site  232: C1: 0.642  C2: 0.358  
+Site  233: C1: 0.945  C2: 0.055  
+Site  234: C1: 0.579  C2: 0.421  
+Site  235: C1: 0.741  C2: 0.259  
+Site  236: C1: 0.794  C2: 0.206  
+Site  237: C1: 0.631  C2: 0.369  
+Site  238: C1: 0.793  C2: 0.207  
+Site  239: C1: 0.642  C2: 0.358  
+Site  240: C1: 0.810  C2: 0.190  
+Site  241: C1: 0.742  C2: 0.258  
+Site  242: C1: 0.878  C2: 0.122  
+Site  243: C1: 0.957  C2: 0.043  
+Site  244: C1: 0.631  C2: 0.369  
+Site  245: C1: 0.704  C2: 0.296  
+Site  246: C1: 0.742  C2: 0.258  
+Site  247: C1: 0.642  C2: 0.358  
+Site  248: C1: 0.704  C2: 0.296  
+Site  249: C1: 0.642  C2: 0.358  
+Site  250: C1: 0.888  C2: 0.112  
+Site  251: C1: 0.919  C2: 0.081  
+Site  252: C1: 0.562  C2: 0.438  
+Site  253: C1: 0.954  C2: 0.046  
+Site  254: C1: 0.888  C2: 0.112  
+Site  255: C1: 0.000  C2: 1.000  
+Site  256: C1: 0.973  C2: 0.027  
+Site  257: C1: 0.954  C2: 0.046  
+Site  258: C1: 0.888  C2: 0.112  
+Site  259: C1: 0.000  C2: 1.000  
+Site  260: C1: 0.753  C2: 0.247  
+Site  261: C1: 0.613  C2: 0.387  
+Site  262: C1: 0.611  C2: 0.389  
+Site  263: C1: 0.994  C2: 0.006  
+Site  264: C1: 0.616  C2: 0.384  
+Site  265: C1: 0.741  C2: 0.259  
+Site  266: C1: 0.000  C2: 1.000  
+Site  267: C1: 0.710  C2: 0.290  
+Site  268: C1: 0.897  C2: 0.103  
+Site  269: C1: 0.562  C2: 0.438  
+Site  270: C1: 0.958  C2: 0.042  
+Site  271: C1: 0.000  C2: 1.000  
+Site  272: C1: 0.876  C2: 0.124  
+Site  273: C1: 0.613  C2: 0.387  
+Site  274: C1: 0.630  C2: 0.370  
+Site  275: C1: 0.977  C2: 0.023  
+Site  276: C1: 0.613  C2: 0.387  
+Site  277: C1: 0.000  C2: 1.000  
+Site  278: C1: 0.753  C2: 0.247  
+Site  279: C1: 0.631  C2: 0.369  
+Site  280: C1: 0.593  C2: 0.407  
+Site  281: C1: 0.561  C2: 0.439  
+Site  282: C1: 0.994  C2: 0.006  
+Site  283: C1: 0.786  C2: 0.214  
+Site  284: C1: 0.593  C2: 0.407  
+Site  285: C1: 0.522  C2: 0.478  
+Site  286: C1: 0.973  C2: 0.027  
+Site  287: C1: 0.613  C2: 0.387  
+Site  288: C1: 0.954  C2: 0.046  
+Site  289: C1: 0.878  C2: 0.122  
+Site  290: C1: 0.000  C2: 1.000  
+Site  291: C1: 0.861  C2: 0.139  
+Site  292: C1: 0.998  C2: 0.002  
+Site  293: C1: 0.613  C2: 0.387  
+Site  294: C1: 0.622  C2: 0.378  
+Site  295: C1: 0.562  C2: 0.438  
+Site  296: C1: 0.704  C2: 0.296  
+Site  297: C1: 0.705  C2: 0.295  
+Site  298: C1: 0.865  C2: 0.135  
+Site  299: C1: 0.987  C2: 0.013  
+Site  300: C1: 0.002  C2: 0.998  
+Site  301: C1: 0.630  C2: 0.370  
+Site  302: C1: 0.928  C2: 0.072  
+Site  303: C1: 0.522  C2: 0.478  
+Site  304: C1: 0.888  C2: 0.112  
+Site  305: C1: 0.973  C2: 0.027  
+Site  306: C1: 0.630  C2: 0.370  
+Site  307: C1: 0.973  C2: 0.027  
+Site  308: C1: 0.954  C2: 0.046  
+Site  309: C1: 0.954  C2: 0.046  
+Site  310: C1: 0.928  C2: 0.072  
+Site  311: C1: 0.704  C2: 0.296  
+Site  312: C1: 0.631  C2: 0.369  
+Site  313: C1: 0.613  C2: 0.387  
+Site  314: C1: 0.575  C2: 0.425  
+Site  315: C1: 0.928  C2: 0.072  
+Site  316: C1: 0.616  C2: 0.384  
+Site  317: C1: 0.954  C2: 0.046  
+Site  318: C1: 0.729  C2: 0.271  
+Site  319: C1: 0.941  C2: 0.059  
+Site  320: C1: 0.939  C2: 0.061  
+Site  321: C1: 0.895  C2: 0.105  
+Site  322: C1: 0.616  C2: 0.384  
+Site  323: C1: 0.787  C2: 0.213  
+Site  324: C1: 0.593  C2: 0.407  
+Site  325: C1: 0.795  C2: 0.205  
+Site  326: C1: 0.000  C2: 1.000  
+Site  327: C1: 0.739  C2: 0.261  
+Site  328: C1: 0.611  C2: 0.389  
+Site  329: C1: 0.883  C2: 0.117  
+Site  330: C1: 0.789  C2: 0.211  
+Site  331: C1: 0.896  C2: 0.104  
+Site  332: C1: 0.642  C2: 0.358  
+Site  333: C1: 0.980  C2: 0.020  
+Site  334: C1: 0.561  C2: 0.439  
+Site  335: C1: 0.044  C2: 0.956  
+Site  336: C1: 0.924  C2: 0.076  
+Site  337: C1: 0.562  C2: 0.438  
+Site  338: C1: 0.561  C2: 0.439  
+Site  339: C1: 0.704  C2: 0.296  
+Site  340: C1: 0.820  C2: 0.180  
+Site  341: C1: 0.642  C2: 0.358  
+Site  342: C1: 0.878  C2: 0.122  
+Site  343: C1: 0.837  C2: 0.163  
+Site  344: C1: 0.631  C2: 0.369  
+Site  345: C1: 0.881  C2: 0.119  
+Site  346: C1: 0.586  C2: 0.414  
+Site  347: C1: 0.741  C2: 0.259  
+Site  348: C1: 0.562  C2: 0.438  
+
+End time: 2025-12-16 02:36:04
